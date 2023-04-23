@@ -1,0 +1,39 @@
+baseURL = 'https://buymov.ru'
+languageCode = 'en-us'
+author = "Ivan Buymov"
+title = "Ivan Buymov"
+theme = 'hugo-goa'
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+    dateformat = "Jan 2, 2006"
+    author = "Ivan Buymov"
+    intro = "SRE \\ DevOps \\ Sysadmin"
+    description = "Now @[ok.ru](https://ok.ru), prevous @[OpenWay](https://www.openwaygroup.com/) and @[Ru-Center](https://www.nic.ru/)"
+    authorimage = "avatar.jpg"
+    [params.social]
+        GitHub = "byumov"
+        Twitter = "byumov"
+        Instagram = "byumov"
+        Telegram = "byumov"
+        VK = "byumov"
+        Email = "ivan@buymov.ru"
+
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/posts/"
+[[menu.main]]
+    name = "nomadmania"
+    identifier = "nomadmania"
+    weight = 300
+    url = "/nomadmania/"
+
+[deployment]
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "deploy"
+
