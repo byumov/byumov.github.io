@@ -31,9 +31,3 @@ theme = 'hugo-goa'
     identifier = "nomadmania"
     weight = 300
     url = "/nomadmania/"
-
-[deployment]
-[[deployment.targets]]
-# An arbitrary name for this target.
-name = "deploy"
-
