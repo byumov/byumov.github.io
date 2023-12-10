@@ -1,4 +1,4 @@
-baseURL = 'https://buymov.ru'
+baseURL = 'https://blog.buymov.ru'
 languageCode = 'en-us'
 author = "Ivan Buymov"
 title = "Ivan Buymov"
@@ -11,7 +11,7 @@ theme = 'hugo-goa'
     dateformat = "Jan 2, 2006"
     author = "Ivan Buymov"
     intro = "SRE \\ DevOps \\ Sysadmin"
-    description = "Now @[ok.ru](https://ok.ru), prevous @[OpenWay](https://www.openwaygroup.com/) and @[Ru-Center](https://www.nic.ru/)"
+    description = "Now @[vk.com](https://vk.com), prevous @[ok.ru](https://ok.ru), @[OpenWay](https://www.openwaygroup.com/) and @[Ru-Center](https://www.nic.ru/)"
     authorimage = "avatar.jpg"
     [params.social]
         GitHub = "byumov"
@@ -25,9 +25,9 @@ theme = 'hugo-goa'
     name = "blog"
     weight = 100
     identifier = "blog"
-    url = "/posts/"
+    url = "/blog/"
 [[menu.main]]
     name = "nomadmania"
     identifier = "nomadmania"
-    weight = 300
+    weight = 600
     url = "/nomadmania/"
