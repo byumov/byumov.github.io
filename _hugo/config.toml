@@ -11,7 +11,7 @@ theme = 'hugo-goa'
     dateformat = "Jan 2, 2006"
     author = "Ivan Buymov"
     intro = "SRE \\ DevOps \\ Sysadmin"
-    description = "Now @[vk.com](https://vk.com), prevous @[ok.ru](https://ok.ru), @[OpenWay](https://www.openwaygroup.com/) and @[Ru-Center](https://www.nic.ru/)"
+    description = "Now @[vk.com](https://vk.company), prevous @[ok.ru](https://ok.ru), @[OpenWay](https://www.openwaygroup.com/) and @[Ru-Center](https://www.nic.ru/)"
     authorimage = "avatar.jpg"
     [params.social]
         GitHub = "byumov"
