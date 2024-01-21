@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOops on Ivan Buymov</title>
+    <link>https://blog.buymov.ru/tags/devoops/</link>
+    <description>Recent content in DevOops on Ivan Buymov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2023 18:45:21 +0300</lastBuildDate>
+    <atom:link href="https://blog.buymov.ru/tags/devoops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOops 2023</title>
+      <link>https://blog.buymov.ru/blog/devoops-2023/</link>
+      <pubDate>Sun, 10 Dec 2023 18:45:21 +0300</pubDate>
+      <guid>https://blog.buymov.ru/blog/devoops-2023/</guid>
+      <description>Выступил на DevOops 2023 с докладом &amp;ldquo;One-cloud vs K8s: брать готовое или писать облако самим?&amp;rdquo; и поучаствовал в программном комитете.&#xA;Немного фоток&#xA;\&#xA;\</description>
+    </item>
+  </channel>
+</rss>

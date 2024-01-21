@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ivan Buymov</title>
-    <link>https://blog.buymov.ru/</link>
-    <description>Recent content on Ivan Buymov</description>
+    <title>VK on Ivan Buymov</title>
+    <link>https://blog.buymov.ru/tags/vk/</link>
+    <description>Recent content in VK on Ivan Buymov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jan 2024 16:12:12 +0300</lastBuildDate>
-    <atom:link href="https://blog.buymov.ru/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.buymov.ru/tags/vk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VK People Awards 2023</title>
       <link>https://blog.buymov.ru/blog/vk-people-awards-2023/</link>
@@ -21,20 +21,6 @@
       <pubDate>Sun, 10 Dec 2023 18:45:21 +0300</pubDate>
       <guid>https://blog.buymov.ru/blog/devoops-2023/</guid>
       <description>Выступил на DevOops 2023 с докладом &amp;ldquo;One-cloud vs K8s: брать готовое или писать облако самим?&amp;rdquo; и поучаствовал в программном комитете.&#xA;Немного фоток&#xA;\&#xA;\</description>
-    </item>
-    <item>
-      <title>Wireguard с UI</title>
-      <link>https://blog.buymov.ru/blog/wireguard-ui/</link>
-      <pubDate>Sun, 10 Dec 2023 18:13:44 +0300</pubDate>
-      <guid>https://blog.buymov.ru/blog/wireguard-ui/</guid>
-      <description>Простой способ поднять wireguard с UI в одну команду:&#xA;export PASS=&amp;#34;&amp;lt;password&amp;gt;&amp;#34; podman run -d \ --name=wg \ -e WG_HOST=135.181.42.186 \ -e PASSWORD=$PASS \ -v ~/.wg-easy:/etc/wireguard \ -p 51820:51820/udp \ -p 51821:51821/tcp \ --cap-add=NET_ADMIN \ --cap-add=SYS_MODULE \ --sysctl=&amp;#34;net.ipv4.conf.all.src_valid_mark=1&amp;#34; \ --sysctl=&amp;#34;net.ipv4.ip_forward=1&amp;#34; \ --restart unless-stopped \ weejewel/wg-easy https://github.com/wg-easy/wg-easy</description>
-    </item>
-    <item>
-      <title>Nomadmania</title>
-      <link>https://blog.buymov.ru/nomadmania/</link>
-      <pubDate>Sun, 23 Apr 2023 22:29:02 +0300</pubDate>
-      <guid>https://blog.buymov.ru/nomadmania/</guid>
-      <description> </description>
     </item>
   </channel>
 </rss>

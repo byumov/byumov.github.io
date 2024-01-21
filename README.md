@@ -5,7 +5,13 @@ Deploy
 ```bash
 cd _hugo
 
-<make changes>
+hugo new content blog/xxx.md
+<other changes>
+
+hugo server
+<check>
 
 hugo -d ../
+
+git commit && push
 ```

@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.buymov.ru/tags/2023/</loc>
+    <lastmod>2024-01-21T16:12:12+03:00</lastmod>
+  </url><url>
     <loc>https://blog.buymov.ru/blog/</loc>
+    <lastmod>2024-01-21T16:12:12+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.buymov.ru/</loc>
+    <lastmod>2024-01-21T16:12:12+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.buymov.ru/tags/</loc>
+    <lastmod>2024-01-21T16:12:12+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.buymov.ru/tags/vk/</loc>
+    <lastmod>2024-01-21T16:12:12+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.buymov.ru/blog/vk-people-awards-2023/</loc>
+    <lastmod>2024-01-21T16:12:12+03:00</lastmod>
+  </url><url>
+    <loc>https://blog.buymov.ru/tags/devoops/</loc>
     <lastmod>2023-12-10T18:45:21+03:00</lastmod>
   </url><url>
     <loc>https://blog.buymov.ru/blog/devoops-2023/</loc>
-    <lastmod>2023-12-10T18:45:21+03:00</lastmod>
-  </url><url>
-    <loc>https://blog.buymov.ru/</loc>
     <lastmod>2023-12-10T18:45:21+03:00</lastmod>
   </url><url>
     <loc>https://blog.buymov.ru/blog/wireguard-ui/</loc>
@@ -18,7 +33,5 @@
     <lastmod>2023-04-23T22:29:02+03:00</lastmod>
   </url><url>
     <loc>https://blog.buymov.ru/categories/</loc>
-  </url><url>
-    <loc>https://blog.buymov.ru/tags/</loc>
   </url>
 </urlset>

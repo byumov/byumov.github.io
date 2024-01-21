@@ -2,6 +2,7 @@
 title: "Wireguard с UI"
 date: 2023-12-10T18:13:44+03:00
 draft: false
+tags: ["2023"]
 ---
 
 Простой способ поднять [wireguard](https://www.wireguard.com/) с UI в одну команду:
