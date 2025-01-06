@@ -3,6 +3,7 @@ languageCode = 'en-us'
 author = "Ivan Buymov"
 title = "Ivan Buymov"
 theme = 'hugo-goa'
+googleAnalytics = "G-ZL4PKVEXYM"
 
 [markup.goldmark.renderer]
     unsafe= true
